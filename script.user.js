@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Benjp.exe
+// @name         Benjo.exe
 // @version      1.1
 // @description  Vanis Multibox Client
 // @match        *://vanis.io/*
