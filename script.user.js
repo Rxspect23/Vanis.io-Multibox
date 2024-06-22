@@ -1,9 +1,9 @@
 // ==UserScript==
-// @name         RISE.EXE
+// @name         Benjp.exe
 // @version      1.1
 // @description  Vanis Multibox Client
 // @match        *://vanis.io/*
-// @author       Zimeh
+// @author       Benjo
 // @run-at       document-end
 // ==/UserScript==
 
